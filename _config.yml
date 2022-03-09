@@ -12,7 +12,7 @@ name: Welcome to the PflegBlog:
 description: A portfolio for my self-study projects!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /assets/image/social_media_avatar.jpeg
+avatar: /assets/image/avatar.png
 
 #
 # Flags below are optional
@@ -46,7 +46,7 @@ footer_links:
   #  icon: fa fa-rss-square
 
   - title: LinkedIn
-    url: https://twitter.com/jekyllrb
+    url: https://linkedin.com//in/danielpfleging
     icon: fa fa-linkedin-square
 
   - title: GitHub
@@ -57,7 +57,7 @@ footer_links:
 #copyright: "This site is made with <3 by *me, myself, and I*."
 
 # Time zone
-timezone: null
+timezone: US/Eastern
 
 # Excerpt separator
 excerpt_separator: <!--more-->

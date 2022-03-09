@@ -6,10 +6,10 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-name: Welcome to DocPflegs PflegBlog...
+name: Welcome to the PflegBlog:
 
 # Short bio or description (displayed in the header)
-description: A portfolio of projects-as-proof of my cybersecurity self-study escapades!
+description: A portfolio for my self-study projects!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/social_media_avatar.jpeg
